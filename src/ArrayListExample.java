@@ -7,7 +7,6 @@ public class ArrayListExample {
         cart.add("Bread");
         cart.add("Butter");
         cart.add("Milk");
-
         System.out.println(cart);
     }
 }
